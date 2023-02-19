@@ -1,0 +1,4 @@
+target/
+GoogleAPI/
+/src/main/resources/application-dev.properties
+credentials.json
